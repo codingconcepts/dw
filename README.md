@@ -3,7 +3,7 @@ A super simple CLI that - given a database url - will wait for that database to 
 
 ### Installation
 
-1. Download the latest version of dw for your OS from the [Releases](https://github.com/codingconcepts/dw/releases) page.
+1. Download the latest version of dw for your OS from the [Releases](https://github.com/codingconcepts/dw/releases/latest) page.
 
 2. Extract the binary:
 
